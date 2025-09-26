@@ -1,0 +1,4 @@
+// type crontab -e
+// restart at 5:00 AM Los Angeles time (Pacific Time) every Sunday
+
+0 5 * * 0 TZ="America/Los_Angeles" /home/woods/qssm/kill.sh
