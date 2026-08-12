@@ -5,9 +5,10 @@
 "classname" "worldspawn"
 "message" "bloodwalk (modification by alice)"
 "wad" "C:/QuakeDev/wads/aerowalk-decompiled-bps.wad;C:/QuakeDev/wads/ztndm3.wad"
+"_sky" "mak_sunset1_"
 }
 
-
+// woods 
 {
 "angle" "42"
 "classname" "info_player_start"
@@ -19,7 +20,7 @@
 
 {
 "classname" "item_flag_team1"
-"origin" "2221 -288 530"
+"origin" "2221 -288 504"
 }
 
 {
@@ -47,7 +48,7 @@
 
 {
 "classname" "item_flag_team2"
-"origin" "1141 1808 770"
+"origin" "1141 1808 744"
 }
 {
 "classname" "info_player_team2"
@@ -2703,6 +2704,9 @@
 "light" "120"
 "origin" "2200 312 744"
 }
+
+// woods adjust to fix air tunnel
+
 {
 "angles" "0 280 0"
 "classname" "trigger_push"
@@ -2718,6 +2722,7 @@
 "model" "*9"
 "speed" "90"
 "style" "32"
+"angle" "-1"
 }
 {
 "angles" "-90 0 0"
@@ -2726,6 +2731,7 @@
 "model" "*10"
 "speed" "90"
 "style" "32"
+"angle" "-1"
 }
 {
 "classname" "item_rockets"

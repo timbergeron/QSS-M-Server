@@ -22,6 +22,13 @@
 "wateralpha" ".7"
 "worldtype" "2"
 }
+
+{
+"classname" "info_intermission"
+"origin" "-2127 -200 497"
+"mangle" "18 43 0"
+}
+
 {
 "alpha" ".5"
 "classname" "func_illusionary"
@@ -667,20 +674,10 @@
 "classname" "info_player_deathmatch"
 "origin" "-2176 -56 104"
 }
-{
-"_tb_layer" "14"
-"classname" "info_intermission"
-"mangle" "17 133 0"
-"origin" "-1280 408 504"
-"spawnflags" "2048"
-}
-{
-"_tb_layer" "14"
-"classname" "info_intermission"
-"mangle" "35 170 0"
-"origin" "-1824 -104 536"
-"spawnflags" "2048"
-}
+
+
+
+
 {
 "_tb_layer" "14"
 "angle" "270"
@@ -688,20 +685,7 @@
 "origin" "-1412 384 152"
 "spawnflags" "2048"
 }
-{
-"_tb_layer" "14"
-"classname" "info_intermission"
-"mangle" "3 270 0"
-"origin" "-1448 -216 216"
-"spawnflags" "2048"
-}
-{
-"_tb_layer" "14"
-"classname" "info_intermission"
-"mangle" "20 135 0"
-"origin" "-1200 -1000 424"
-"spawnflags" "2048"
-}
+
 {
 "_tb_layer" "14"
 "angle" "270"
@@ -1063,11 +1047,7 @@
 "classname" "trigger_secret"
 "model" "*40"
 }
-{
-"_tb_layer" "14"
-"classname" "weapon_laser_gun"
-"origin" "-1696 -992 112"
-}
+
 {
 "_tb_layer" "14"
 "classname" "trigger_once"

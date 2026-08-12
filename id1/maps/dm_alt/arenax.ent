@@ -1,0 +1,432 @@
+{
+"classname" "worldspawn"
+"message" "ArenaX"
+"sounds" "6"
+"worldtype" "2"
+"light" "0"
+}
+{
+"classname" "info_player_start"
+"origin" "52 0 -80"
+"angle" "0"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "52 0 -80"
+"angle" "0"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/soldier.mdl"
+"origin" "552 0 -70"
+"angle" "180"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/ogre.mdl"
+"origin" "550 46 -56"
+"angle" "185"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/knight.mdl"
+"origin" "543 92 -56"
+"angle" "191"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/demon.mdl"
+"origin" "533 137 -56"
+"angle" "196"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/wizard.mdl"
+"origin" "518 181 -56"
+"angle" "201"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/zombie.mdl"
+"origin" "500 223 -56"
+"angle" "206"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/dog.mdl"
+"origin" "477 263 -56"
+"angle" "212"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/enforcer.mdl"
+"origin" "451 301 -56"
+"angle" "217"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/hknight.mdl"
+"origin" "422 337 -56"
+"angle" "222"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/shalrath.mdl"
+"origin" "389 370 -56"
+"angle" "228"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/shambler.mdl"
+"origin" "353 399 -56"
+"angle" "233"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/tarbaby.mdl"
+"origin" "315 425 -56"
+"angle" "238"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/fish.mdl"
+"origin" "275 448 -56"
+"angle" "244"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/boss.mdl"
+"origin" "233 466 -56"
+"angle" "249"
+"scale" "0.25"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/oldone.mdl"
+"origin" "189 481 -56"
+"angle" "254"
+"scale" "0.25"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_shot.mdl"
+"origin" "144 491 -56"
+"angle" "259"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_nail.mdl"
+"origin" "98 498 -56"
+"angle" "265"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_nail2.mdl"
+"origin" "52 500 -56"
+"angle" "270"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_rock.mdl"
+"origin" "6 498 -56"
+"angle" "275"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_rock2.mdl"
+"origin" "-40 491 -56"
+"angle" "281"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/g_light.mdl"
+"origin" "-85 481 -56"
+"angle" "286"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/invulner.mdl"
+"origin" "-129 466 -56"
+"angle" "291"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/suit.mdl"
+"origin" "-171 448 -56"
+"angle" "296"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/invisibl.mdl"
+"origin" "-211 425 -56"
+"angle" "302"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/quaddama.mdl"
+"origin" "-249 399 -56"
+"angle" "307"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_bh10.bsp"
+"origin" "-285 370 -56"
+"angle" "312"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_bh25.bsp"
+"origin" "-318 337 -56"
+"angle" "318"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_bh100.bsp"
+"origin" "-347 301 -56"
+"angle" "323"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/armor.mdl"
+"origin" "-373 263 -56"
+"angle" "328"
+"skin" "0"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/armor.mdl"
+"origin" "-396 223 -56"
+"angle" "334"
+"skin" "1"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/armor.mdl"
+"origin" "-414 181 -56"
+"angle" "339"
+"skin" "2"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_shell1.bsp"
+"origin" "-429 137 -56"
+"angle" "344"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_nail1.bsp"
+"origin" "-439 92 -56"
+"angle" "349"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_rock1.bsp"
+"origin" "-446 46 -56"
+"angle" "355"
+}
+{
+"classname" "misc_model"
+"mdl" "maps/b_batt1.bsp"
+"origin" "-448 0 -56"
+"angle" "360"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/end1.mdl"
+"origin" "-446 -46 -56"
+"angle" "5"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/end2.mdl"
+"origin" "-439 -92 -56"
+"angle" "11"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/end3.mdl"
+"origin" "-429 -137 -56"
+"angle" "16"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/end4.mdl"
+"origin" "-414 -181 -56"
+"angle" "21"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/w_s_key.mdl"
+"origin" "-396 -223 -56"
+"angle" "26"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/w_g_key.mdl"
+"origin" "-373 -263 -56"
+"angle" "32"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/flag.mdl"
+"origin" "-347 -301 -56"
+"angle" "37"
+"skin" "0"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/flag.mdl"
+"origin" "-318 -337 -56"
+"angle" "42"
+"skin" "1"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/backpack.mdl"
+"origin" "-285 -370 -56"
+"angle" "48"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/missile.mdl"
+"origin" "-249 -399 -56"
+"angle" "53"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/grenade.mdl"
+"origin" "-211 -425 -56"
+"angle" "58"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/lavaball.mdl"
+"origin" "-171 -448 -56"
+"angle" "64"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/flame.mdl"
+"origin" "-129 -466 -56"
+"angle" "69"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/flame2.mdl"
+"origin" "-85 -481 -56"
+"angle" "74"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/teleport.mdl"
+"origin" "-40 -491 -56"
+"angle" "79"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/zom_gib.mdl"
+"origin" "6 -498 -56"
+"angle" "85"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/gib1.mdl"
+"origin" "52 -500 -56"
+"angle" "90"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/gib2.mdl"
+"origin" "98 -498 -56"
+"angle" "95"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/gib3.mdl"
+"origin" "144 -491 -56"
+"angle" "101"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_player.mdl"
+"origin" "189 -481 -56"
+"angle" "106"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_demon.mdl"
+"origin" "233 -466 -56"
+"angle" "111"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_dog.mdl"
+"origin" "275 -448 -56"
+"angle" "116"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_guard.mdl"
+"origin" "315 -425 -56"
+"angle" "122"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_ogre.mdl"
+"origin" "353 -399 -56"
+"angle" "127"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_knight.mdl"
+"origin" "389 -370 -56"
+"angle" "132"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_hellkn.mdl"
+"origin" "422 -337 -56"
+"angle" "138"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_wizard.mdl"
+"origin" "451 -301 -56"
+"angle" "143"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_zombie.mdl"
+"origin" "477 -263 -56"
+"angle" "148"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_shal.mdl"
+"origin" "500 -223 -56"
+"angle" "154"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_shams.mdl"
+"origin" "518 -181 -56"
+"angle" "159"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/h_mega.mdl"
+"origin" "533 -137 -56"
+"angle" "164"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/player.mdl"
+"origin" "543 -92 -56"
+"angle" "169"
+}
+{
+"classname" "misc_model"
+"mdl" "progs/eyes.mdl"
+"origin" "550 -46 -56"
+"angle" "175"
+}

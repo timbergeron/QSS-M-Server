@@ -1,0 +1,105 @@
+{
+"wad" "gfx/QuArK.wad"
+"_sun_color" "187 115 159"
+"_sun_mangle" "45 -45 0"
+"_sun_light" "150"
+"_bounce" "2"
+"worldtype" "0"
+"message" "Cake Cake Cake"
+"classname" "worldspawn"
+}
+
+
+{
+"angle" "90"
+"classname" "info_player_deathmatch"
+"origin" "201 -203 -232"
+}
+
+{
+"angle" "90"
+"classname" "info_player_deathmatch"
+"origin" "-132 246 -232"
+}
+
+{
+"model" "*1"
+"classname" "func_illusionary"
+}
+{
+"style" "0"
+"light" "500"
+"origin" "-576 192 -288"
+"classname" "light"
+}
+{
+"style" "0"
+"light" "500"
+"origin" "192 -24 -40"
+"classname" "light"
+}
+{
+"light" "200"
+"origin" "-156 -84 -48"
+"classname" "light_flame_small_white"
+}
+{
+"light" "200"
+"origin" "-148 -52 -48"
+"classname" "light_flame_small_white"
+}
+{
+"light" "200"
+"origin" "-148 -116 -48"
+"classname" "light_flame_small_white"
+}
+{
+"model" "*2"
+"classname" "func_illusionary"
+}
+{
+"style" "0"
+"light" "500"
+"origin" "-536 -96 -288"
+"classname" "light"
+}
+{
+"angle" "180"
+"origin" "208 -96 -232"
+"classname" "info_player_start"
+}
+{
+"angle" "315"
+"origin" "-176 224 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "90"
+"origin" "144 -224 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "45"
+"origin" "-208 -240 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "360"
+"origin" "-160 112 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "208 0 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "315"
+"origin" "32 -144 -232"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "360"
+"origin" "-112 -64 -88"
+"classname" "info_player_deathmatch"
+}

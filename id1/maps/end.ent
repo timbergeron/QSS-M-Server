@@ -1,11 +1,25 @@
-// woods remove extra teleport locations
-
 {
 "wad" "gfx/wizard.wad"
 "classname" "worldspawn"
 "message" "Shub-Niggurath's Pit"
 "sounds" "4"
 }
+
+{
+"origin" "-843 2063 613"
+"classname" "info_player_deathmatch"
+}
+
+{
+"classname" "item_artifact_invisibility"
+"origin" "-961 2671 344"
+}
+
+{
+"classname" "item_artifact_invulnerability"
+"origin" "-560 17 24"
+}
+
 {
 "origin" "0 8 328"
 "classname" "light"

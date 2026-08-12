@@ -2861,6 +2861,7 @@
 
 // woods add spawnflags so no message?
 
+/*
 {
 "classname" "trigger_multiple"
 "message" "You must shoot the window \n to open this door."
@@ -2868,6 +2869,8 @@
 "model" "*110"
 "spawnflags" "2048"
 }
+*/
+
 {
 "classname" "trigger_once"
 "spawnflags" "1"

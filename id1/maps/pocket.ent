@@ -64,7 +64,7 @@
 
 {
 "classname" "info_teleport_destination"
-"origin" "299 -304 318"
+"origin" "235 -304 318"
 "angle" "180"
 "targetname" "tele_dest_air"
 }

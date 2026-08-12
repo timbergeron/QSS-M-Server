@@ -401,6 +401,7 @@
 {
 "classname" "func_plat"
 "model" "*10"
+"lip" "7"
 }
 {
 "classname" "light"
@@ -692,6 +693,7 @@
 {
 "classname" "func_plat"
 "model" "*16"
+"lip" "7"
 }
 {
 "classname" "info_intermission"

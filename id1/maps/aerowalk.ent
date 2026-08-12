@@ -7,6 +7,10 @@
 "_sky" "browncloud_"
 }
 
+{
+"classname" "info_altar"
+"origin" "-259 -685 440"
+}
 
 
 {

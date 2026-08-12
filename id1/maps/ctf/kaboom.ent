@@ -6,6 +6,16 @@
 "_ctfstyle" "3"
 }
 
+{
+"classname" "item_artifact_invulnerability"
+"origin" "144 -1296 40"
+}
+
+{
+"classname" "item_artifact_invisibility"
+"origin" "144 -1480 60"
+"spawnflags" "128" // allow progsdump suspended in air
+}
 
 // woods -- runes
 
